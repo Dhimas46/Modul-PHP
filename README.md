@@ -1,4 +1,4 @@
-# Modul-PHP 2
+# Modul-PHP-2
 Belajar PHP
 
 Latihan 1 :
